@@ -6,4 +6,4 @@ Write an applet that draws a pie chart with eight equal slices, all colored diff
 Sample run:
 ************************************************************************************************************************************************************
 
-![alt tag](Lab-01/sample.png)
+![alt tag](sample.png)
