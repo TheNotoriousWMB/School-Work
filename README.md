@@ -1,1 +1,3 @@
-# School-Work
+#School Work
+
+My personal solutions to school projects
