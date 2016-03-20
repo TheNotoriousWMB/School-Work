@@ -8,10 +8,10 @@ You must demonstrate inheritance by developing a base chess piece class with whi
 Sample run:
 ************************************************************************************************************************************************************
 
-![alt tag](sample0.png)
+![alt tag](sample0.PNG)
 
-![alt tag](sample1.png)
+![alt tag](sample1.PNG)
 
-![alt tag](sample2.png)
+![alt tag](sample2.PNG)
 
-![alt tag](sample3.png)
+![alt tag](sample3.PNG)
