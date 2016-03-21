@@ -25,4 +25,4 @@ Sample run:
     Number of circles read: 100
     Number of circles drawn: 36
 
-![alt tag](sample0.PNG)
+![alt tag](sample.PNG)
