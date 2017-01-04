@@ -10,9 +10,7 @@ Sample run:
 
     $ make
 
-        gcc -Wall -std=c99   -c -o functions.o functions.c
-        gcc -Wall -std=c99   -c -o main.o main.c
-        gcc -o project01_01 functions.o main.o
+        gcc main.c functions.c -Wall -std=c99 -lm -o project01_01
 
     $ ./project01_01 
     
