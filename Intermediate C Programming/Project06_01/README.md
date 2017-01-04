@@ -1,6 +1,6 @@
 #Description
 
-Use the IMDB files from ftp://ftp.fu-berlin.de/pub/misc/movies/database/ to build a SQLite database that supports the following applications (which you will also build). Note these are all C programs that use command line arguments for input.
+Use the IMDB files from ftp://ftp.fu-berlin.de/pub/misc/movies/database/ to build a SQLite database that supports the following applications (which you will also build).
 
 + tag movie_name: prints all of tag lines used for all of the movies with the given name. Tag lines are printed one per line and are prefixed with the year of the movie.
 
