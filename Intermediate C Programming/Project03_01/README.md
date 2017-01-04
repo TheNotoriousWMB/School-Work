@@ -35,3 +35,12 @@ Sample run:
         
     $ ./project03_01 
 
+![alt tag](cap1.PNG)
+
+![alt tag](cap2.PNG)
+
+![alt tag](cap3.PNG)
+
+![alt tag](cap4.PNG)
+
+![alt tag](cap5.PNG)
